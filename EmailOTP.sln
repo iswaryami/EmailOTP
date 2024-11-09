@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailOTP", "EmailOTP.csproj", "{F16A6568-1E69-4BDF-97B1-10F1082D4C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16A6568-1E69-4BDF-97B1-10F1082D4C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16A6568-1E69-4BDF-97B1-10F1082D4C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16A6568-1E69-4BDF-97B1-10F1082D4C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16A6568-1E69-4BDF-97B1-10F1082D4C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017033C1-E7A5-43DC-A02E-825F44DD9489}
+	EndGlobalSection
+EndGlobal
